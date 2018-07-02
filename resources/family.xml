@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<families>
+	<family id="1">
+		<mother maiden-name="Brown">
+			<name>Kate</name>
+			<surname>Stevenson</surname>
+			<age>29</age>
+		</mother>
+
+		<father>
+			<name>John</name>
+			<surname>Stevenson</surname>
+			<age>25</age>
+			<military />
+		</father>
+
+		<children>
+			<child>
+				<name>Child11</name>
+				<surname>Stevenson</surname>
+				<age>5</age>
+				<gender>M</gender>
+			</child>
+			<child>
+				<name>Child12</name>
+				<surname>Stevenson</surname>
+				<age>7</age>
+				<gender>F</gender>
+			</child>
+		</children>
+
+	</family>
+
+	<family id="2">
+		<mother maiden-name="Doe">
+			<name>Anna</name>
+			<surname>Smith</surname>
+			<age>30</age>
+		</mother>
+
+		<father>
+			<name>Don</name>
+			<surname>Smith</surname>
+			<age>31</age>
+			<military />
+		</father>
+
+		<children>
+			<child>
+				<name>Child21</name>
+				<surname>Smith</surname>
+				<age>5</age>
+				<gender>M</gender>
+			</child>
+			<child>
+				<name>Child22</name>
+				<surname>Smith</surname>
+				<age>8</age>
+				<gender>M</gender>
+			</child>
+		</children>
+
+	</family>
+
+	<family id="3">
+		<mother maiden-name="Black">
+			<name>Sue</name>
+			<surname>White</surname>
+			<age>32</age>
+		</mother>
+
+		<father>
+			<name>Sam</name>
+			<surname>White</surname>
+			<age>31</age>
+			<military />
+		</father>
+
+		<children>
+			<child>
+				<name>Child31</name>
+				<surname>White</surname>
+				<age>4</age>
+				<gender>M</gender>
+			</child>
+			<child>
+				<name>Child32</name>
+				<surname>White</surname>
+				<age>3</age>
+				<gender>M</gender>
+			</child>
+		</children>
+
+	</family>
+
+</families>
